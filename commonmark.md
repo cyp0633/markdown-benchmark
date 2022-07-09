@@ -42,13 +42,6 @@
 
 > some entity references
 
-# Blocks and inlines
-
-- `one
-- two`
-
-> Not inline code, but a list
-
 # Leaf blocks
 
 ***
