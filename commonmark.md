@@ -137,6 +137,30 @@ end
 
 > Three text code blocks, and a code block linted in Ruby
 
+```verilog
+// Verilog
+module top (/* ... */);
+  /* ... */
+```
+
+```rust
+// Rust
+fn main() {
+    println!("Hello, world!");
+}
+```
+
+```assembly
+# assembly
+.text
+main:
+        la   $s0, A
+        lw   $s0, 0($s0)
+        la   $s1, B
+        lw   $s1, 0($s1)
+```
+> Some tricky languages linting
+
 ## HTML blocks
 
 <table><tr><td>
